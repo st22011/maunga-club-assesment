@@ -40,6 +40,8 @@
             <div class="chalet">
                 <div class="chalet-image">
                     <img src="Image/kakapo/cabin_exterior.jpg" alt="Kākāpo Chalet">
+                    <img src="Image/kakapo/cabin_view.jpg" alt="Kakapo cabin">
+                    <img src="Image/kakapo/bunk_room.jpg" alt="Kakapo bunk room">
                 </div>
                 <div class="chalet-details">
                     <h3>Kākāpo Chalet</h3>
@@ -76,6 +78,8 @@
             <div class="chalet">
                 <div class="chalet-image">
                     <img src="Image/kereru/cabin_exterior.jpg" alt="Kererū Chalet">
+                    <img src="Image/kereru/adult_bedroom.jpg" alt="Kereu Chalet adult">
+                    <img src="Image/kereru/kids_bedroom.jpg" alt="Kereru kids bedroom">
                 </div>
                 <div class="chalet-details">
                     <h3>Kererū Chalet</h3>
