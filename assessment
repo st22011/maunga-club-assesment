@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maunga Club - Your Mountain Retreat</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="logo">
+                <a href="#">
+                    <img src="Image/Maunga_Club_white.png" alt="Maunga Club Logo">
+                </a>
+            </div>
+            <ul class="nav-links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Chalets</a></li>
+                <li><a href="#">Join Us</a></li>
+            </ul>
+        </nav>
+        <div class="hero">
+            <h1>Welcome to Maunga Club</h1>
+            <p>Your Alpine Escape Awaits</p>
+            <a href="#join" class="cta-button">Join Now</a>
+        </div>
+    </header>
+
+    <section class="about">
+        <div class="container">
+            <h2>About Maunga Club</h2>
+            <p>Discover the ultimate mountain experience with Maunga Club. Our exclusive chalets provide a haven for skiing enthusiasts and families seeking adventure and relaxation.</p>
+        </div>
+    </section>
+    <section class="chalets">
+        <div class="container">
+            <h2>Our Chalets</h2>
+            <div class="chalet">
+                <div class="chalet-image">
+                    <img src="Image/kakapo/cabin_exterior.jpg" alt="Kākāpo Chalet">
+                </div>
+                <div class="chalet-details">
+                    <h3>Kākāpo Chalet</h3>
+                    <p>Indulge in the grandeur of the Kākāpo Chalet, our largest offering that caters to groups and families seeking a luxurious alpine retreat. With a spacious kitchen, dining, and living area, this chalet is perfect for creating unforgettable memories with your loved ones.</p>
+                    <p>Features:</p>
+                    <ul>
+                        <li>Accommodates up to 10 adults and 30 children</li>
+                        <li>Expansive kitchen equipped with modern appliances for gourmet cooking</li>
+                        <li>Open and well-lit dining and living area for group gatherings</li>
+                        <li>Premium amenities to ensure your comfort</li>
+                        <li>Ski-in, ski-out access to the mountain, making your adventure seamless</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="chalet">
+                <div class="chalet-image">
+                    <img src="Image/pukeko/chalet_exterior.jpg" alt="Pūkeko Chalet">
+                    <img src="Image/pukeko/chalet_view.jpg" alt="Pūkeko Chalet">
+                    <img src="Image/pukeko/adult_bedroom.jpg" alt="Pūkeko Chalet">
+                </div>
+                <div class="chalet-details">
+                    <h3>Pūkeko Chalet</h3>
+                    <p>Experience a serene and private mountain getaway in our Pūkeko Chalet. Designed for large groups and families, this chalet offers an exclusive retreat amidst the breathtaking alpine landscape.</p>
+                    <p>Features:</p>
+                    <ul>
+                        <li>Designed for a comfortable stay for groups and families</li>
+                        <li>Multiple bedrooms with beautiful views</li>
+                        <li>Private adult bedrooms for added luxury</li>
+                        <li>Thoughtfully designed interiors for a relaxing ambiance</li>
+                        <li>Your own piece of the mountain for an unforgettable experience</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="chalet">
+                <div class="chalet-image">
+                    <img src="Image/kereru/cabin_exterior.jpg" alt="Kererū Chalet">
+                </div>
+                <div class="chalet-details">
+                    <h3>Kererū Chalet</h3>
+                    <p>Escape to the cozy charm of our Kererū Chalet, a perfect choice for families with young adventurers. With its intimate layout and thoughtful design, it offers a comfortable and inviting atmosphere for an unforgettable family holiday.</p>
+                    <p>Features:</p>
+                    <ul>
+                        <li>Ideal for families with 2-4 children</li>
+                        <li>Two well-appointed bedrooms for restful nights</li>
+                        <li>Separate living area to create lasting memories together</li>
+                        <li>Enjoy quality time with your loved ones in a picturesque setting</li>
+                        <li>A home away from home for an enriching family experience</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    
+
+    <section id="join" class="join">
+        <div class="container">
+            <h2>Join Maunga Club</h2>
+            <p>Become a member today and experience the beauty of the mountains like never before.</p>
+            <p>To join, email us at <a href="mailto:maungaclub@maungaclub.maungaclub">maungaclub@maungaclub.maungaclub</a> with your full name, physical address, proof of address, and proof of ID.</p>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2023 Maunga Club. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
