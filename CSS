@@ -178,3 +178,40 @@ body {
 .footer p {
     font-size: 14px;
 }
+.join-form {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.join-form label {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.join-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.join-form button {
+    background-color: #ff6600;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.join-form button:hover {
+    background-color: #ff8c33;
+}
+
